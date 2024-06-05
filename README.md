@@ -1,4 +1,4 @@
 # test
 
 
-[Test project](https://Hector-Lopez-Perez.github.io/test/tree/main/README.md)
+[Test project](https://Hector-Lopez-Perez.github.io/Project_2/tree)
